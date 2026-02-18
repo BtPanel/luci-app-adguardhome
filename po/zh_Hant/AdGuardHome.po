@@ -2,9 +2,6 @@
 msgid ""
 msgstr ""
 
-msgid "<a href=\"https://github.com/stevenjoezhang/luci-app-adguardhome\" target=\"_blank\">⭐ Star on GitHub</a>"
-msgstr "<a href=\"https://github.com/stevenjoezhang/luci-app-adguardhome\" target=\"_blank\">⭐ 在 GitHub 加星</a>"
-
 #/cgi-bin/luci/admin/services/AdGuardHome
 msgid "Plugin Settings"
 msgstr "外掛設定"
